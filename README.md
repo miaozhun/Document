@@ -1,12 +1,11 @@
+[TOC]
+
 # DEsingle
 
 ### *Zhun Miao*
 ### *2017-06-06*
 
 ![Logo](https://github.com/miaozhun/DEsingle/blob/master/vignettes/DEsingle_LOGO.png?raw=true)
-
-
-[TOC] 
 
 
 ## Introduction
